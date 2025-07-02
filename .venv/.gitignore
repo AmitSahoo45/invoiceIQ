@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But NOT these files/folders:
+!.gitignore
+!*.py
+!README.md
+!pyvenv.cfg
+!invoice.py
+!.env
+!requirements.txt
